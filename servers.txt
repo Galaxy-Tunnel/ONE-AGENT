@@ -1,0 +1,13 @@
+vless://26fe5cdd-e772-4238-8adc-9bf53d4781fa@www.x.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=coca.nobless.workers.dev&type=ws&allowInsecure=0&sni=coca.nobless.workers.dev#Galaxy-Server-%F0%9F%8C%90 
+
+vless://26fe5cdd-e772-4238-8adc-9bf53d4781fa@www.dtac.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=coca.nobless.workers.dev&type=ws&allowInsecure=0&sni=coca.nobless.workers.dev#Galaxy-Server-%F0%9F%87%B9%F0%9F%87%AD%E2%9A%A1 
+
+trojan://3413d540-942c-4763-ad39-3854a3621a2e@cdn.cookielaw.org:443?path=%2F&security=tls&insecure=0&host=galaxy-3.z-empire.workers.dev&type=ws&allowInsecure=0&sni=galaxy-3.z-empire.workers.dev#Galaxy-Cookie%F0%9F%A7%87 
+
+trojan://3413d540-942c-4763-ad39-3854a3621a2e@www.spacex.com:443?path=%2F&security=tls&insecure=0&host=galaxy-3.z-empire.workers.dev&type=ws&allowInsecure=0&sni=galaxy-3.z-empire.workers.dev#Galaxy-Server-%F0%9F%9A%80 
+
+vless://8221a740-8218-4775-ab45-0bab948285ec@copilot.microsoft.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=sub.galaxytunnel2026.workers.dev&type=ws&allowInsecure=0&sni=sub.galaxytunnel2026.workers.dev#Galaxy-Server%F0%9F%A5%88 
+
+vless://8221a740-8218-4775-ab45-0bab948285ec@liftcreations.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=sub.galaxytunnel2026.workers.dev&type=ws&allowInsecure=0&sni=sub.galaxytunnel2026.workers.dev#Galaxy-Server-%E2%9A%A1 
+
+trojan://18616960-5953-490c-a717-5462c9c63517@www.chatgpt.com:443?path=%2F&security=tls&insecure=0&host=galaxy-2.pages.dev&type=ws&allowInsecure=0&sni=galaxy-2.pages.dev#Galaxy-Server-%E2%9A%A1
